@@ -1,4 +1,4 @@
-# EDA-on-Canteen-Sales-Data
+# Analysis on Superstore Sales Data
 Objective - To analyse the sales data from a Superstore and gather insights from it
 
 Conclusion : 
